@@ -1,0 +1,21 @@
+{
+    "channels": [
+        {
+            "bannerImageURL": "../../Featured/en_lproj/FeaturedTabBanner.png", 
+            "documents": [], 
+            "type": "hero", 
+            "title": "Learn to Code"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "Challenges"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "Starting Points"
+        }
+    ], 
+    "accessoriesFeeds": "../../Partners/Feed/en_lproj/feed.json"
+}

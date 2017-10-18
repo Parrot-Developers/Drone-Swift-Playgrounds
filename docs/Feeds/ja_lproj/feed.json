@@ -1,0 +1,21 @@
+{
+    "channels": [
+        {
+            "bannerImageURL": "../../Featured/ja_lproj/FeaturedTabBanner.png", 
+            "documents": [], 
+            "type": "hero", 
+            "title": "\u30b3\u30fc\u30c9\u3092\u5b66\u307c\u3046"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "\u30c1\u30e3\u30ec\u30f3\u30b8"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8"
+        }
+    ], 
+    "accessoriesFeeds": "../../Partners/Feed/ja_lproj/feed.json"
+}

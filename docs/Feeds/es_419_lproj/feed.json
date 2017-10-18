@@ -1,0 +1,21 @@
+{
+    "channels": [
+        {
+            "bannerImageURL": "../../Featured/es_419_lproj/FeaturedTabBanner.png", 
+            "documents": [], 
+            "type": "hero", 
+            "title": "Aprende a programar"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "Retos"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "Puntos de partida"
+        }
+    ], 
+    "accessoriesFeeds": "../../Partners/Feed/es_419_lproj/feed.json"
+}

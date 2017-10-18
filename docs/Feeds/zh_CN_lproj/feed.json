@@ -1,0 +1,21 @@
+{
+    "channels": [
+        {
+            "bannerImageURL": "../../Featured/zh_CN_lproj/FeaturedTabBanner.png", 
+            "documents": [], 
+            "type": "hero", 
+            "title": "\u5b66\u4e60\u7f16\u7a0b"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "\u6311\u6218"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "\u8d77\u70b9"
+        }
+    ], 
+    "accessoriesFeeds": "../../Partners/Feed/zh_CN_lproj/feed.json"
+}

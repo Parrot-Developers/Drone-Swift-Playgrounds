@@ -1,0 +1,21 @@
+{
+    "channels": [
+        {
+            "bannerImageURL": "../../Featured/fr_lproj/FeaturedTabBanner.png", 
+            "documents": [], 
+            "type": "hero", 
+            "title": "Apprendre\u00a0\u00e0\u00a0coder"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "D\u00e9fis"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "Points de d\u00e9part"
+        }
+    ], 
+    "accessoriesFeeds": "../../Partners/Feed/fr_lproj/feed.json"
+}

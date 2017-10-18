@@ -1,0 +1,18 @@
+{
+    "fr": "Feeds/fr_lproj/feed.json", 
+    "en": "Feeds/en_lproj/feed.json", 
+    "zh_CN": "Feeds/zh_CN_lproj/feed.json", 
+    "de": "Feeds/de_lproj/feed.json", 
+    "es_419": "Feeds/es_419_lproj/feed.json", 
+    "ja": "Feeds/ja_lproj/feed.json",
+    "es": "Feeds/es_lproj/feed.json",
+    "it": "Feeds/it_lproj/feed.json",
+    "ko": "Feeds/ko_lproj/feed.json",
+    "nl": "Feeds/nl_lproj/feed.json",
+    "pt": "Feeds/pt_lproj/feed.json",
+    "sv": "Feeds/sv_lproj/feed.json",
+    "th": "Feeds/th_lproj/feed.json",
+    "tr": "Feeds/tr_lproj/feed.json",
+    "zh_TW": "Feeds/zh_TW_lproj/feed.json"
+    
+}

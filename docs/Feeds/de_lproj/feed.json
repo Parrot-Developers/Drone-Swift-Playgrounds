@@ -1,0 +1,21 @@
+{
+    "channels": [
+        {
+            "bannerImageURL": "../../Featured/de_lproj/FeaturedTabBanner.png", 
+            "documents": [], 
+            "type": "hero", 
+            "title": "Programmieren lernen"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "Herausforderungen"
+        }, 
+        {
+            "documents": [], 
+            "type": "auxiliary", 
+            "title": "Ausgangspunkte"
+        }
+    ], 
+    "accessoriesFeeds": "../../Partners/Feed/de_lproj/feed.json"
+}
