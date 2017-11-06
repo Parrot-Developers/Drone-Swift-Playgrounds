@@ -1,21 +1,75 @@
 {
-    "channels": [
+    "documents": [
         {
-            "bannerImageURL": "../../Featured/en_lproj/FeaturedTabBanner.png", 
-            "documents": [], 
-            "type": "hero", 
-            "title": "Learn to Code"
-        }, 
+            "previewImageURLs": [],
+            "bannerImageURL": "../../Content/ParrotEducation/en_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/ParrotEducation/en_lproj/StoreBanner_2x.png",
+            "subtitle": "Learn to code and pilot a Parrot drone in Swift!",
+            "description": "In this playground you will learn how to program and pilot your Parrot drone using the power of Swift code! You will learn how to takeoff, land, move in all directions, make acrobatic figures, and even control accessories.\n\nSupported drone models include: Rolling Spider, Airborne, and Mambo.",
+            "publishedDate": "2017-05-29T12:00:00+00:00",
+            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/v1.0/ParrotEducation.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "Parrot Education"
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2017-05-29T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
+                }
+            ],
+            "title": "Parrot Education",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+            "contentIdentifier": "com.parroteducation.playground",
+            "sha512": "10981a24dcbc1e614a272e035fbb46d061b9bf558633dee2e8cb4da600725309dd8989063ca89670dd1a5f754f6f850687903d7ff5107a9cf5537a802aae6273"
+        },
         {
-            "documents": [], 
-            "type": "auxiliary", 
-            "title": "Challenges"
-        }, 
-        {
-            "documents": [], 
-            "type": "auxiliary", 
-            "title": "Starting Points"
+            "previewImageURLs": [],
+            "bannerImageURL": "../../Content/ParrotTemplate/en_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/ParrotTemplate/en_lproj/StoreBanner_2x.png",
+            "subtitle": "Learn to code and pilot a Parrot drone in Swift!",
+            "description": "This template is the starting point for your own drone project. You will be able to use all the commands you learned in the Parrot Education playground to program and pilot your Parrot drone.\n\nSupported drone models include: Rolling Spider, Airborne, and Mambo.",
+            "publishedDate": "2017-05-29T12:00:00+00:00",
+            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/v1.0/ParrotTemplate.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "Parrot Education"
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2017-05-29T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
+                }
+            ],
+            "title": "Parrot Template",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+            "contentIdentifier": "com.parroteducation.playground.template",
+            "sha512": "e82c2991c4efb5b25d77a37e9c812a99e313425440d2121de83a1600de63ee6ce945cbd71a75a353ef73e8c76fe55aaceddccbfc553363d89ef486dfa4597da5"
         }
-    ], 
-    "accessoriesFeeds": "../../Partners/Feed/en_lproj/feed.json"
+    ],
+    "publisherName": "Parrot Education",
+    "title": "Parrot Education",
+    "formatVersion": "1.0",
+    "feedIdentifier": "com.parroteducation",
+    "contactURL": "mailto:education@parrot.com"
 }

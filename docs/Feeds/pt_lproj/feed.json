@@ -2,10 +2,10 @@
     "documents": [
         {
             "previewImageURLs": [],
-            "bannerImageURL": "../../Content/ParrotEducation/es_419_lproj/DetailsBanner_2x.png",
-            "thumbnailURL": "../../Content/ParrotEducation/es_419_lproj/StoreBanner_2x.png",
-            "subtitle": "\u00a1Aprende a programar y pilotear un dron Parrot con Swift!",
-            "description": "En este playground, aprender\u00e1s a programar y pilotear tu dron Parrot usando el poderoso c\u00f3digo Swift. Aprender\u00e1s a despegar, aterrizar, moverte en todas las direcciones, realizar figuras acrob\u00e1ticas e incluso controlar los accesorios.\n\nCompatible con los modelos de dron Rolling Spider, Airborne y Mambo.",
+            "bannerImageURL": "../../Content/ParrotEducation/pt_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/ParrotEducation/pt_lproj/StoreBanner_2x.png",
+            "subtitle": "Learn to code and pilot a Parrot drone in Swift!",
+            "description": "In this playground you will learn how to program and pilot your Parrot drone using the power of Swift code! You will learn how to takeoff, land, move in all directions, make acrobatic figures, and even control accessories.\n\nSupported drone models include: Rolling Spider, Airborne, and Mambo.",
             "publishedDate": "2017-05-29T12:00:00+00:00",
             "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/v1.0/ParrotEducation.playgroundbook.zip",
             "additionalInformation": [
@@ -14,17 +14,17 @@
                     "value": "Parrot Education"
                 },
                 {
-                    "name": "Versi\u00f3n:",
+                    "name": "Vers\u00e3o:",
                     "value": "1.0"
                 },
                 {
                     "type": "date",
-                    "name": "Publicado:",
+                    "name": "Lan\u00e7amento:",
                     "value": "2017-05-29T12:00:00+00:00"
                 },
                 {
                     "name": "Idiomas:",
-                    "value": "Ingl\u00e9s, Alem\u00e1n, Franc\u00e9s, Japon\u00e9s, Chino simplificado y Espa\u00f1ol (Latinoam\u00e9rica)."
+                    "value": "Ingl\u00eas, alem\u00e3o, franc\u00eas, japon\u00eas, chin\u00eas simplificado e espanhol da Am\u00e9rica Latina."
                 }
             ],
             "title": "Parrot Education",
@@ -35,32 +35,32 @@
         },
         {
             "previewImageURLs": [],
-            "bannerImageURL": "../../Content/ParrotTemplate/es_419_lproj/DetailsBanner_2x.png",
-            "thumbnailURL": "../../Content/ParrotTemplate/es_419_lproj/StoreBanner_2x.png",
-            "subtitle": "\u00a1Aprende a programar y pilotear un dron Parrot con Swift!",
-            "description": "Esta plantilla es el punto de partida para tu propio proyecto de drones. Podr\u00e1s usar todos los comandos que aprendiste en el playground de Parrot Education para programar y pilotear tu dron Parrot.\n\nCompatible con los modelos de dron Rolling Spider, Airborne y Mambo.",
+            "bannerImageURL": "../../Content/ParrotTemplate/pt_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/ParrotTemplate/pt_lproj/StoreBanner_2x.png",
+            "subtitle": "Aprenda a programar e pilotar um drone Papagaio no Swift!",
+            "description": "This template is the starting point for your own drone project. You will be able to use all the commands you learned in the Parrot Education playground to program and pilot your Parrot drone.\n\nSupported drone models include: Rolling Spider, Airborne, and Mambo.",
             "publishedDate": "2017-05-29T12:00:00+00:00",
             "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/v1.0/ParrotTemplate.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "Editor:",
-                    "value": "Parrot Education"
+                    "value": "Educa\u00e7\u00e3o do Papagaio"
                 },
                 {
-                    "name": "Versi\u00f3n:",
+                    "name": "Vers\u00e3o:",
                     "value": "1.0"
                 },
                 {
                     "type": "date",
-                    "name": "Publicado:",
+                    "name": "Lan\u00e7amento:",
                     "value": "2017-05-29T12:00:00+00:00"
                 },
                 {
                     "name": "Idiomas:",
-                    "value": "Ingl\u00e9s, Alem\u00e1n, Franc\u00e9s, Japon\u00e9s, Chino simplificado y Espa\u00f1ol (Latinoam\u00e9rica)."
+                    "value": "Ingl\u00eas, alem\u00e3o, franc\u00eas, japon\u00eas, chin\u00eas simplificado e espanhol da Am\u00e9rica Latina."
                 }
             ],
-            "title": "Plantilla de Parrot",
+            "title": "Parrot Template",
             "contentVersion": "1.0",
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
             "contentIdentifier": "com.parroteducation.playground.template",
