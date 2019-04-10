@@ -6,8 +6,8 @@
             "thumbnailURL": "../../Content/ParrotEducation/zh_CN_lproj/StoreBanner_2x.png",
             "overviewSubtitle": "\u5b66\u4e60\u7528 Swift \u7f16\u7a0b\u5e76\u64cd\u63a7 Parrot \u65e0\u4eba\u673a\uff01",
             "description": "\u5728\u8fd9\u4e2a Playground \u4e2d\uff0c\u4f60\u5c06\u5b66\u4e60\u5982\u4f55\u4f7f\u7528 Swift \u4ee3\u7801\u7f16\u7a0b\u5e76\u9a7e\u9a76 Parrot \u65e0\u4eba\u673a\uff01 \u4f60\u5c06\u638c\u63e1\u5982\u4f55\u8d77\u98de\u3001\u964d\u843d\u3001\u671d\u5404\u4e2a\u65b9\u5411\u98de\u884c\u3001\u8868\u6f14\u7a7a\u4e2d\u7279\u6280\uff0c\u751a\u81f3\u662f\u63a7\u5236\u914d\u4ef6\u3002\n\n\u652f\u6301\u7684\u65e0\u4eba\u673a\u578b\u53f7\u5305\u62ec\uff1aRolling Spider\u3001Airborne \u548c Mambo.",
-            "publishedDate": "2017-05-29T12:00:00+00:00",
-            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/v1.0/ParrotEducation.playgroundbook.zip",
+            "publishedDate": "2019-04-07T12:00:00+00:00",
+            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/v1.2/ParrotEducation.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "\u53d1\u5e03\u8005\uff1a",
@@ -15,12 +15,12 @@
                 },
                 {
                     "name": "\u7248\u672c\uff1a",
-                    "value": "1.0"
+                    "value": "1.2"
                 },
                 {
                     "type": "date",
                     "name": "\u53d1\u5e03\uff1a",
-                    "value": "2017-05-29T12:00:00+00:00"
+                    "value": "2019-04-07T12:00:00+00:00"
                 },
                 {
                     "name": "\u8bed\u8a00\uff1a",
@@ -28,10 +28,11 @@
                 }
             ],
             "title": "Parrot Education",
-            "contentVersion": "1.0",
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+            "difficultyLevel": "intermediate",
+            "contentVersion": "1.2",
+            "lastUpdatedDate": "2019-04-07T12:00:00+00:00",
             "contentIdentifier": "com.parroteducation.playground",
-            "sha512": "10981a24dcbc1e614a272e035fbb46d061b9bf558633dee2e8cb4da600725309dd8989063ca89670dd1a5f754f6f850687903d7ff5107a9cf5537a802aae6273"
+            "sha512": "ae185a6a5c6e2bf6f55c8fb8107a1a75d68ad3c41b762d7c1b4e3368580ab0e5506101bfb17426aa2fbe230495111c3c5d24de5d89b55e21df2238eb92e28059"
         },
         {
             "previewImageURLs": [],
@@ -39,8 +40,8 @@
             "thumbnailURL": "../../Content/ParrotTemplate/zh_CN_lproj/StoreBanner_2x.png",
             "overviewSubtitle": "\u5b66\u4e60\u7528 Swift \u7f16\u7a0b\u5e76\u64cd\u63a7 Parrot \u65e0\u4eba\u673a\uff01",
             "description": "\u6b64\u6a21\u677f\u662f\u4f60\u81ea\u5df1\u65e0\u4eba\u673a\u9879\u76ee\u7684\u8d77\u70b9\u3002 \u4f60\u53ef\u4ee5\u4f7f\u7528\u5728 Parrot Education Playground \u4e2d\u5b66\u5230\u7684\u6240\u6709\u547d\u4ee4\uff0c\u7f16\u7a0b\u5e76\u64cd\u63a7\u4f60\u7684 Parrot \u65e0\u4eba\u673a\u3002\n\n\u652f\u6301\u7684\u65e0\u4eba\u673a\u578b\u53f7\u5305\u62ec\uff1aRolling Spider\u3001Airborne \u548c Mambo.",
-            "publishedDate": "2017-05-29T12:00:00+00:00",
-            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/v1.0/ParrotTemplate.playgroundbook.zip",
+            "publishedDate": "2019-04-07T12:00:00+00:00",
+            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/v1.2/ParrotTemplate.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "\u53d1\u5e03\u8005\uff1a",
@@ -48,12 +49,12 @@
                 },
                 {
                     "name": "\u7248\u672c\uff1a",
-                    "value": "1.0"
+                    "value": "1.2"
                 },
                 {
                     "type": "date",
                     "name": "\u53d1\u5e03\uff1a",
-                    "value": "2017-05-29T12:00:00+00:00"
+                    "value": "2019-04-07T12:00:00+00:00"
                 },
                 {
                     "name": "\u8bed\u8a00\uff1a",
@@ -61,10 +62,11 @@
                 }
             ],
             "title": "Parrot \u6a21\u677f",
-            "contentVersion": "1.0",
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+            "difficultyLevel": "intermediate",
+            "contentVersion": "1.2",
+            "lastUpdatedDate": "2019-04-07T12:00:00+00:00",
             "contentIdentifier": "com.parroteducation.playground.template",
-            "sha512": "e82c2991c4efb5b25d77a37e9c812a99e313425440d2121de83a1600de63ee6ce945cbd71a75a353ef73e8c76fe55aaceddccbfc553363d89ef486dfa4597da5"
+            "sha512": "386283ae3572307735d009f5bd0451c06b79e47498290338aefec34fd05e18d75fc464b7f5675aeed0bfe0fd938ec915901101efae4a6df4052cbc91fe5c74c2"
         }
     ],
     "publisherName": "Parrot Education",
