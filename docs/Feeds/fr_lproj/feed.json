@@ -6,8 +6,8 @@
             "thumbnailURL": "../../Content/ParrotEducation/fr_lproj/StoreBanner_2x.png",
             "overviewSubtitle": "Apprends \u00e0 coder et \u00e0 piloter un drone Parrot avec Swift\u00a0!",
             "description": "Dans ce playground, tu apprendras \u00e0 programmer et \u00e0 piloter ton drone Parrot en faisant appel \u00e0 la puissance du code Swift ! Tu d\u00e9couvriras comment d\u00e9coller, atterrir, voler dans toutes les directions, effectuer des figures acrobatiques et m\u00eame \u00e0 contr\u00f4ler des accessoires.\n\nMod\u00e8les de drone pris en charge\u00a0: Rolling Spider, Airborne et Mambo.",
-            "publishedDate": "2019-09-30T12:00:00+00:00",
-            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/1.4/Parrot.Education.playgroundbook.zip",
+            "publishedDate": "2019-10-13T12:00:00+00:00",
+            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/1.5/Parrot.Education.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "\u00c9diteur\u00a0:",
@@ -15,12 +15,12 @@
                 },
                 {
                     "name": "Version\u00a0:",
-                    "value": "1.4"
+                    "value": "1.5"
                 },
                 {
                     "type": "date",
                     "name": "Sortie\u00a0:",
-                    "value": "2019-09-30T12:00:00+00:00"
+                    "value": "2019-10-13T12:00:00+00:00"
                 },
                 {
                     "name": "Langues\u00a0:",
@@ -29,10 +29,10 @@
             ],
             "title": "Parrot\u00a0Education",
             "difficultyLevel": "intermediate",
-            "contentVersion": "1.4",
-            "lastUpdatedDate": "2019-09-30T12:00:00+00:00",
+            "contentVersion": "1.5",
+            "lastUpdatedDate": "2019-10-13T12:00:00+00:00",
             "contentIdentifier": "com.parroteducation.playground",
-            "sha512": "a3a4620ba27afb34d8543b8c82de3f33a261febe281af2461cc4edf547a1161bfd8e799216d4ae24cc5e4cc5f4bd80249603e1f4dbb62c36b88bd073b1e3a967"
+            "sha512": "05bf42af252c92487c98344696f88a9461227ca13e5d8355a5be0191ffc0296f81a48a3beb8b38ee67fa6bc7b04595704ebd74f1ee00f42dcac234842fc84169"
         },
         {
             "previewImageURLs": [],
@@ -40,8 +40,8 @@
             "thumbnailURL": "../../Content/ParrotTemplate/fr_lproj/StoreBanner_2x.png",
             "overviewSubtitle": "Apprends \u00e0 coder et \u00e0 piloter un drone Parrot avec Swift\u00a0!",
             "description": "Ce mod\u00e8le est le point de d\u00e9part de ton projet. Tu pourras te servir de toutes les commandes que tu as apprises pendant le playground Parrot Education pour programmer et piloter ton drone Parrot.\n\nMod\u00e8les de drone pris en charge\u00a0: Rolling Spider, Airborne et Mambo.",
-            "publishedDate": "2019-09-30T12:00:00+00:00",
-            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/1.4/Parrot.Template.playgroundbook.zip",
+            "publishedDate": "2019-10-13T12:00:00+00:00",
+            "url": "https://github.com/Parrot-Developers/Drone-Swift-Playgrounds/releases/download/1.5/Parrot.Template.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "\u00c9diteur\u00a0:",
@@ -49,12 +49,12 @@
                 },
                 {
                     "name": "Version\u00a0:",
-                    "value": "1.4"
+                    "value": "1.5"
                 },
                 {
                     "type": "date",
                     "name": "Sortie\u00a0:",
-                    "value": "2019-09-30T12:00:00+00:00"
+                    "value": "2019-10-13T12:00:00+00:00"
                 },
                 {
                     "name": "Langues\u00a0:",
@@ -63,10 +63,10 @@
             ],
             "title": "Mod\u00e8le de Parrot",
             "difficultyLevel": "intermediate",
-            "contentVersion": "1.4",
-            "lastUpdatedDate": "2019-09-30T12:00:00+00:00",
+            "contentVersion": "1.5",
+            "lastUpdatedDate": "2019-10-13T12:00:00+00:00",
             "contentIdentifier": "com.parroteducation.playground.template",
-            "sha512": "b32312cf53f58c6fb9852644a6122fb95cdf5f2c65106b4f71517280eaa47a2511597af086809c3a8b9006bf01127611b18f4601deb19edebc084b70e3f334ab"
+            "sha512": "40a4ca400f5d00944df9a5ac45b09523bcc5f42fca0c7ea31bf682b724f952f2acf2c7cae40101c9ec896a6f5e16491cb13001adc9f0bbb0370bd1c12d9ae372"
         }
     ],
     "publisherName": "Parrot Education",
